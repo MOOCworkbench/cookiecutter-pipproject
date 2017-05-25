@@ -1,4 +1,5 @@
 # Dev/Deployment
+--extra-index-url https://packages.jochem.xyz/simple
 sphinx
 sphinx_rtd_theme
 nose
